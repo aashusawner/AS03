@@ -1,0 +1,10 @@
+
+kartik@DESKTOP-S9IV8SU MINGW64 ~/desktop (master)
+$ cd desktop
+bash: cd: desktop: No such file or directory
+
+kartik@DESKTOP-S9IV8SU MINGW64 ~/desktop (master)
+$ reset
+
+
+chenge 001
